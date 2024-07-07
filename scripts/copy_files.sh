@@ -3,4 +3,4 @@
 mkdir -p /var/www/html
 
 # Copy files to the destination directory
-cp -r README.md /var/www/html/
+cp -r index.html /var/www/html/
